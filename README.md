@@ -5,7 +5,7 @@
 <!--lint enable no-heading-punctuation-->
 ![surfs-up.jpeg](images/surfs-up.jpeg)
 
- There are four main objectives to this homework:
+ There are four main objectives to this homework: 
 
 ## Step 1 - Data Engineering
 
