@@ -5,7 +5,7 @@
 <!--lint enable no-heading-punctuation-->
 ![surfs-up.jpeg](images/surfs-up.jpeg)
 
- There are four main objectives to this homework: 
+ There are four main objectives : 
 
 ## Step 1 - Data Engineering
 
@@ -43,7 +43,7 @@ Use SQLAlchemy to model the table schemas and create a sqlite database for the t
 
 ## Step 3 - Climate Analysis and Exploration
 
- Now ready to use Python and SQLAlchemy to do basic climate analysis and data exploration on new weather station tables. All of the following analysis should be completed using SQLAlchemy ORM queries, Pandas, and Matplotlib.
+ Use Python and SQLAlchemy to do basic climate analysis and data exploration on new weather station tables. All of the following analysis should be completed using SQLAlchemy ORM queries, Pandas, and Matplotlib.
 
 * Create a Jupyter Notebook file called `climate_analysis.ipynb` and use it to complete climate analysis and data exploration.
 
@@ -121,7 +121,7 @@ Use SQLAlchemy to model the table schemas and create a sqlite database for the t
 
 ## Step 4 - Climate App
 
-Complete initial analysis, design a Flask API based on the queries that  just developed.
+Complete initial analysis, design a Flask API based on the queries that just developed.
 
 * Use FLASK to create routes.
 
@@ -151,12 +151,7 @@ Complete initial analysis, design a Flask API based on the queries that  just de
 
   * When given the start and the end date, calculate the `TMIN`, `TAVG`, and `TMAX` for dates between the start and end date inclusive.
 
-## Hints
-
-* Need to join the station and measurement tables for some of the analysis queries.
+* Join the station and measurement tables for some of the analysis queries.
 
 * Use Flask `jsonify` to convert API data into a valid JSON response object.
 
-## Copyright
-
-Data Boot Camp ©2018. All Rights Reserved.
