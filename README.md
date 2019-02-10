@@ -101,7 +101,7 @@ Use SQLAlchemy to model the table schemas and create a sqlite database for the t
 
 ### Optional Recommended Analysis
 
-* The following are optional challenge queries. These are highly recommended to attempt, but not required for the homework.
+* The following are optional challenge queries
 
   * Calculate the rainfall per weather station using the previous year's matching dates.
 
